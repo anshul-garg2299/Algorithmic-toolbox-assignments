@@ -3,7 +3,7 @@ My submissions for assignments for the course [Algorithmic Toolbox](https://www.
 
 ## Assignment Descriptions
 
-###Week 1
+### Week 1
 * [Assignment Description](https://github.com/anshul-garg2299/Algorithmic-toolbox-assignments/blob/master/week1_programming_challenges/week1_programming_challenges.pdf)
 
 ### Week 2
